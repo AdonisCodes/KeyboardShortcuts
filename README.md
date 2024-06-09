@@ -21,5 +21,13 @@ Example: </br>
 
 **Searching For Apps:** </br>
 To search for applications you can use ⌘ + f </br>
-Exampmle: </br>
+Example: </br>
 ![output-5](https://github.com/AdonisCodes/KeyboardShortcuts/assets/122154257/8281593b-5913-40cc-8fa4-cfc28d718d70)
+
+
+## Safari Shortcuts
+
+**Opening Searchbar In Chrome, Safari or FireFox:** </br>
+To open the address bar in any browser on MacOS, you can use ⌘ + l </br>
+Example: </br>
+![output](https://github.com/AdonisCodes/KeyboardShortcuts/assets/122154257/da9f30e7-9f8d-4bba-b1d9-32c5ecaddbe1)
